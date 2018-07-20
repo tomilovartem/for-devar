@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DevarTestJob</string>
+    <string name="PoolId">us-east-2_sI1ivFCf3</string>
+    <string name="PoolAppClientId">2838caidiid33fgpn365ia4bb1</string>
+    <string name="PoolAppClientSecret">11vuj0q1iuir9rq7pej9l7i9tdim61lnjrbtjguvg1a9ub1hs9ck</string>
+    <string name="ProviderKey">UserPool</string>
+    <string name="Region">us-east-2</string>
+</resources>
